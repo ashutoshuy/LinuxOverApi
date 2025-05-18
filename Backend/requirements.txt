@@ -1,0 +1,13 @@
+# requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+email-validator
+python-jose
+passlib
+bcrypt
+python-multipart
+python-dotenv
+# app/config.py
+pydantic_settings
